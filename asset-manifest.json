@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yogesh_notesDemo/static/css/main.e6c13ad2.css",
+    "main.js": "/yogesh_notesDemo/static/js/main.966758cd.js",
+    "index.html": "/yogesh_notesDemo/index.html",
+    "main.e6c13ad2.css.map": "/yogesh_notesDemo/static/css/main.e6c13ad2.css.map",
+    "main.966758cd.js.map": "/yogesh_notesDemo/static/js/main.966758cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.966758cd.js"
+  ]
+}
